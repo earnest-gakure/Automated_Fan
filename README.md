@@ -6,8 +6,7 @@ The ESP32 reads data from the DHT11 sensor, decides whether the temperature exce
 
 
 Features         
-Temperature and Humidity Monitoring: The DHT11 sensor provides real-time temperature and humidity data.
-
+Temperature and Humidity Monitoring: The DHT11 sensor provides real-time temperature and humidity data.                
 Fan Control: The ESP32 adjusts the fan speed based on the temperature readings.                                             
 Threshold Configuration: Easily configure temperature thresholds for fan activation.                            
 
