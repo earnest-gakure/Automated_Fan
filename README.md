@@ -6,10 +6,13 @@ This project demonstrates how to use an ESP32 microcontroller along with a DHT11
 
 Features
 Temperature and Humidity Monitoring: The DHT11 sensor provides real-time temperature and humidity data.
+
 Fan Control: The ESP32 adjusts the fan speed based on the temperature readings.
+
 Threshold Configuration: Easily configure temperature thresholds for fan activation.
 
-Hardware Requirements
+Hardware Requirements    
+
 ESP32 microcontroller
 DHT11 temperature and humidity sensor
 Fan (3D printed)
